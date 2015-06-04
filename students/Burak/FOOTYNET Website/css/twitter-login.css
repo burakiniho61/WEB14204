@@ -1,0 +1,75 @@
+.version.twitter_login /* version checker */
+{
+	color: #000013;
+	background-color: #E10ED8;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 679px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u3034
+{
+	z-index: 2;
+	width: 917px;
+	height: 772px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -31px;
+}
+
+#u5043
+{
+	z-index: 3;
+	width: 1160px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: -100px;
+}
+
+#u6116
+{
+	z-index: 5;
+	width: 214px;
+	height: 50px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 436px;
+	left: -64px;
+}
+
+.ie #u3034,.ie #u6116
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
