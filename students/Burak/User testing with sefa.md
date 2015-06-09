@@ -1,0 +1,3 @@
+I did User testing with my prototypes with sefa and I found out some patterns. He thought it was quite easy to navigate hes way through the website however he did say it was quite plane at the moment therefore more colour and picture needs to be added.
+
+He was able to identify that the website was about football straight away. He liked the fact that the news page combined all different elements of football news such as the league table, the news and also the fixtures. He was able to spot the links on the news page and be able to find out more about the news. 
